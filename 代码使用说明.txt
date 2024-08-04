@@ -1,0 +1,3 @@
+将“DataAugment、FuseAttentionModel、Import、OthersModel、Shuffle”文件与“数据增强+数据集划分.ipynb”文件放在同一个文件夹，将“数据增强+数据集划分.ipynb”文件在jupyter中打开，运行即可。
+
+需要注意的是，要将.ipynb文件中的数据导入部分路径更改为已存储下来的脑电数据.mat文件所在位置。
